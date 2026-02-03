@@ -1,0 +1,39 @@
+# XAMPP and development files
+.htaccess
+php_errors.log
+error_log
+
+# Database backup files
+*.sql.backup
+*.sql.bak
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# Temporary files
+tmp/
+temp/
+cache/
+
+# User uploaded files (if any)
+uploads/
+files/
+
+# Environment files with sensitive data
+.env
+config.local.php
+
+# Backup files
+*_backup.*
+*.bak
